@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <style>
+         .container {
+         margin-left: 40px;
+         margin-right: 40px;
+         display: grid;
+         grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+         gap: 10px;
+         background: rgb(255, 255, 255);
+         padding: 20px;
+         }
+         .box>img {
+         height: 55%;
+         width: 60%;
+         display: block;
+         background-color: cornflowerblue;
+         border-top-right-radius: 0.5rem;
+         border-top-left-radius: 0.5rem;
+         }
+         .box:hover {
+         transform: scale(1.04);
+         }
+         .title {
+         background: #ddd;
+         padding: 0.5rem 0.5rem;
+         text-align: center;
+         width: calc(60% - 1rem);
+         border-bottom-left-radius: 0.5rem;
+         border-bottom-right-radius: 0.5rem;
+         }
+         h1 {font-family: Arial, Helvetica, sans-serif;
+         font-weight: lighter;}
+      </style>
+   </head>
+   <body>
+      <h1>Gallery heading</h1>
+      <div class="container">
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+         <div class="box">
+            <img src="placeholder-image.png" alt="some alt text" />
+            <div class="title"> <span>Image Title</span>
+            </div>
+         </div>
+      </div>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae lobortis mi, mattis lacinia nisl. Maecenas commodo vulputate ligula a iaculis. Aenean eleifend nibh ut quam tincidunt tristique. Morbi in dictum nibh. Donec et neque ligula. Aenean imperdiet, felis et euismod luctus, eros nisl rutrum felis, sed cursus lacus justo at lectus. In commodo, lorem eget varius porta, nunc orci faucibus ligula, in commodo nibh sem sit amet eros. Praesent mattis egestas lorem, sit amet euismod sapien convallis ac. Ut eget pharetra risus, at fringilla erat. Maecenas quis sapien convallis, luctus nisi sed, volutpat urna. Sed tincidunt egestas mauris consectetur egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In dapibus tempor ex, bibendum pellentesque magna aliquam non. Praesent tristique dui quis molestie dictum. Pellentesque placerat, magna elementum suscipit accumsan, arcu mauris dapibus velit, sed sodales arcu felis eu lacus. Maecenas sed ornare orci. Donec ac magna placerat, fringilla nisi sed, vulputate odio. Aenean id neque neque. Sed id auctor arcu. Aenean ultrices nisi a aliquet gravida. Proin ac nisl non ligula sollicitudin molestie at id augue. Curabitur pharetra tortor elit, vel convallis neque dapibus eu. Praesent porttitor risus aliquam venenatis lacinia. Duis ac arcu vel magna pharetra aliquet. Phasellus ut consequat diam. Fusce eu tempus tortor, a blandit dui.</p>
+   </body>
+</html>
