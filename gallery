@@ -38,52 +38,52 @@
       <h1>Gallery heading</h1>
       <div class="container">
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
          <div class="box">
-            <img src="placeholder-image.png" alt="some alt text" />
+            <img src="placeholder-image.png" alt="" />
             <div class="title"> <span>Image Title</span>
             </div>
          </div>
